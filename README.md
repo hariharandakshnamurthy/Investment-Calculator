@@ -22,6 +22,5 @@ A simple React-based application that helps users calculate the future value of 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [CSS Modules or Tailwind] *(add your styling approach here)*
 
 ---
